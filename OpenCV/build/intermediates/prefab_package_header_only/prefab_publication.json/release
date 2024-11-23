@@ -1,0 +1,17 @@
+{
+  "installationFolder": "/Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/build/intermediates/prefab_package/release/prefab",
+  "gradlePath": ":OpenCV",
+  "packageInfo": {
+    "packageName": "OpenCV",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "/Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/native/jni/include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

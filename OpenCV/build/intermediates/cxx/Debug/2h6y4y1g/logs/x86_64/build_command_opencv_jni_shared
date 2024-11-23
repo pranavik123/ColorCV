@@ -1,0 +1,4 @@
+/Users/pranavikamavarapu/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/.cxx/Debug/2h6y4y1g/x86_64 \
+  opencv_jni_shared
